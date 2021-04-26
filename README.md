@@ -1,4 +1,4 @@
-### Hi there 👋,I'm Thabo I'm learning to build websites.
+### Hi there 👋,I'm Thabo and I'm learning to build websites.
 [![Gmail](mailto: thabomoyo47@gmail.com)]
 
 <!--
